@@ -1,0 +1,9 @@
+C:\Users\Ahmet Mete\source\repos\Odev\Odev\obj\Debug\Odev.csprojAssemblyReference.cache
+C:\Users\Ahmet Mete\source\repos\Odev\Odev\obj\Debug\Odev.Form1.resources
+C:\Users\Ahmet Mete\source\repos\Odev\Odev\obj\Debug\Odev.Properties.Resources.resources
+C:\Users\Ahmet Mete\source\repos\Odev\Odev\obj\Debug\Odev.csproj.GenerateResource.cache
+C:\Users\Ahmet Mete\source\repos\Odev\Odev\bin\Debug\Odev.exe.config
+C:\Users\Ahmet Mete\source\repos\Odev\Odev\bin\Debug\Odev.exe
+C:\Users\Ahmet Mete\source\repos\Odev\Odev\bin\Debug\Odev.pdb
+C:\Users\Ahmet Mete\source\repos\Odev\Odev\obj\Debug\Odev.exe
+C:\Users\Ahmet Mete\source\repos\Odev\Odev\obj\Debug\Odev.pdb
